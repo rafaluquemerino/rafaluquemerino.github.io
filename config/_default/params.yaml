@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: light
-  color: zinc
+  color: blue
 
 # SEO
 marketing:
@@ -30,13 +30,13 @@ marketing:
 header:
   navbar:
     enable: true
-    align: "center"
+    align: "right"
     blox: "navbar"
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Rafael Luque Merino"
 
 # Site footer
 footer:
