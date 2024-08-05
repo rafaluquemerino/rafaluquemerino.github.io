@@ -34,13 +34,13 @@ profiles:
     url: 'mailto:rluque01@ucm.es'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/RAFAELLUQUEMER1
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/rafaluquemerino
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/rafael-luque-merino/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.es/citations?user=1Eh_xOAAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
