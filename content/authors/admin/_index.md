@@ -78,6 +78,10 @@ education:
     summary: |
       GPA: 7.21/10
       - Highest honours for Bachelor thesis
+  - area: BSc in Maths and Physics (2 years)
+    institution: Universidad Complutense de Madrid
+    date_start: 2013-09-01
+    date_end: 2015-07-31
 work:
   - position: PhD candidate in 2D quantum materials under Dr. Dmitri Efetov
     company_name: ICFO-LMU
