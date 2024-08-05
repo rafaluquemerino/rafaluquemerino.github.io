@@ -125,8 +125,8 @@ languages:
 
 ---
 
-## About Me
+# Biography
 
-Hi, I’m Rafa, currently PhD student in Physics from the Experimental Solid State Physics - Quantum Materials group at the Ludwig Maximilian University of Munich (LMU), which moved from ICFO, in Barcelona. I use innovative nano-fabrication techniques to create novel designer materials made by vertical stacking and twisting of various 2D materials. I am interested in superconductivity, 2D materials, quantum sensing, and condensed matter physics.
+Hi, I’m Rafa, currently PhD student in Physics from the Experimental Solid State Physics - Quantum Materials group at the [Ludwig Maximilian University of Munich (LMU)](https://www.quantummatter.physik.lmu.de/), which moved from [The Institute of Photonic Sciences (ICFO)](https://www.icfo.eu/), in Barcelona. I use innovative nano-fabrication techniques to create novel designer materials made by vertical stacking and twisting of various 2D materials. I am interested in superconductivity, 2D materials, quantum sensing, and condensed matter physics.
 
-For more details see my [publications](https://example.com) list.
+For more details see my [publications](https://rafaluquemerino.github.io/#publications) list.
