@@ -48,7 +48,7 @@ interests:
   - Basketball
   - Slavok Zizek
 
-education:
+experience:
   - area: PhD Physics
     institution: Insitut de les Ciències Fotòniques (ICFO) - Ludwig Maximilian university (LMU)
     date_start: 2019-01-01
