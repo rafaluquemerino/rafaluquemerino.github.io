@@ -19,45 +19,17 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
 
-
-  - block: experience
+  - block: markdown
     id: experience
     content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many experience `items` below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Predoctoral Researcher
-          company: LMU
-          company_url: ''
-          company_logo: org-gc
-          location: Castelldefels / Munich
-          date_start: '2019-19-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-
 
   - block: collection
     id: publications
@@ -87,7 +59,7 @@ sections:
     content:
       title: Teaching
       subtitle: Subtitle of teaching
-      text: Teachings in LMU
+      text: 'Teachings in LMU'
   
   
   - block: markdown
@@ -95,7 +67,7 @@ sections:
     content:
       title: Contact
       subtitle: ''
-      text: You can reach me at ...
+      text: You can reach me at
 
 
   - block: cta-card
