@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Rafael Luque Merino
+title: Rafael Luque Merino
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Doctoral researcher
+role: PhD student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Ludwig Maximilian University of Munich
+  - name: ICFO - LMU
     url: https://www.lmu.de/en/
 
 # Social network links
@@ -49,6 +49,20 @@ interests:
   - Physics
   - Basketball
   - Slavok Zizek
+
+sections:
+  - block: markdown
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+  - block: markdown
+    id: section-2
+    content:
+      title: Section 2
+      subtitle: A subtitle
+      text: Add your Section 2 content here...
 
 education:
   - area: PhD Artificial Intelligence
