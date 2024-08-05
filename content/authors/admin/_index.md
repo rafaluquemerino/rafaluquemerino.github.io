@@ -110,13 +110,7 @@ work:
     company_logo: ''
     date_start: 2017-01-01
     date_end: 2018-12-31
-fellowships and grants:
-  - position: Bachelor Thesis in Quantum Optics under Dr. Michiel de Dood
-    company_name: Quantum Optics Group, Leiden University, The Netherlands
-    company_url: ''
-    company_logo: ''
-    date_start: 2017-01-01
-    date_end: 2018-12-31
+
 
 
 # Skills
