@@ -52,13 +52,13 @@ interests:
 
 sections:
   - block: markdown
-    id: section-1
+    id: experience
     content:
-      title: Section 1
-      subtitle: A subtitle
+      title: Experience
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+
   - block: markdown
-    id: section-2
+    id: publications
     content:
       title: Section 2
       subtitle: A subtitle
