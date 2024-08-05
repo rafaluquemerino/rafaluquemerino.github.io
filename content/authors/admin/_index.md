@@ -79,28 +79,41 @@ education:
       GPA: 7.21/10
       - Highest honours for Bachelor thesis
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: PhD candidate in 2D quantum materials under Dr. Dmitri Efetov
+    company_name: ICFO-LMU
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2019-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - “Single photon detection based on a 2D high temperature superconductor”
+  - position: Master Thesis on Quantum Computing under Dr. Pol Forn Díaz
+    company_name: Barcelona Supercomputing Centre (BSC), Barcelona, Spain
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2018-01-01
+    date_end: 2019-12-31
+    summary: |:
+      - 5 months, 800 hours of research experience
+  - position: Research internship on Solar Energy under Dr. Sandra Bermejo
+    company_name: Universitat Politècnica de Catalunya, Barcelona, Spain
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-01-01
+    date_end: 2019-12-31
+    summary: |:
+      - “Nanostructures for thin silicon solar cells”
+      - 4 months, 300 hours of research experience
+  - position: Bachelor Thesis in Quantum Optics under Dr. Michiel de Dood
+    company_name: Quantum Optics Group, Leiden University, The Netherlands
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-01-01
+    date_end: 2018-12-31
+    summary: |:
+      - “Characterizing Superconducting Nanowire Single Photon Detectors”
+      - 4 months, 700 hours of research experience
+
 
 
 # Skills
