@@ -85,35 +85,28 @@ work:
     company_logo: ''
     date_start: 2019-09-01
     date_end: ''
-    summary: |2-
-      - “Single photon detection based on a 2D high temperature superconductor”
+
   - position: Master Thesis on Quantum Computing under Dr. Pol Forn Díaz
     company_name: Barcelona Supercomputing Centre (BSC), Barcelona, Spain
     company_url: ''
     company_logo: ''
     date_start: 2018-01-01
     date_end: 2019-12-31
-    summary: |:
-      - 5 months, 800 hours of research experience
+
   - position: Research internship on Solar Energy under Dr. Sandra Bermejo
     company_name: Universitat Politècnica de Catalunya, Barcelona, Spain
     company_url: ''
     company_logo: ''
     date_start: 2018-01-01
     date_end: 2019-12-31
-    summary: |:
-      - “Nanostructures for thin silicon solar cells”
-      - 4 months, 300 hours of research experience
+   
   - position: Bachelor Thesis in Quantum Optics under Dr. Michiel de Dood
     company_name: Quantum Optics Group, Leiden University, The Netherlands
     company_url: ''
     company_logo: ''
     date_start: 2017-01-01
     date_end: 2018-12-31
-    summary: |:
-      - “Characterizing Superconducting Nanowire Single Photon Detectors”
-      - 4 months, 700 hours of research experience
-
+  
 
 
 # Skills
@@ -149,14 +142,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 ---
 
