@@ -18,8 +18,9 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-    
+
   - block: markdown
+    id: experience
     content:
       title: '📚 My Research'
       subtitle: ''
@@ -27,12 +28,11 @@ sections:
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
 
   - block: collection
+    id: publications
     content:
       title: Publications
       text: ""
@@ -42,45 +42,34 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Talks
       filters:
         folders:
           - event
     design:
       view: article-grid
       columns: 1
-  - block: collection
-    id: news
+
+  - block: markdown
+    id: teaching
     content:
-      title: Recent News
+      title: Teaching
+      subtitle: Subtitle of teaching
+      text: Teachings in LMU
+  
+  
+  - block: markdown
+    id: contact
+    content:
+      title: Contact
       subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      text: You can reach me at ...
+
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
