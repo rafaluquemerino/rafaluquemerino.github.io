@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
 
-  - block: markdown
+  - block: experience
     id: experience
     content:
       title: Experience
