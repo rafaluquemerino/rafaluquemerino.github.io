@@ -19,8 +19,8 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
 
-  - block: experience
-    
+  - block: markdowmn
+    id: experience
     content:
       title: Experience
       # Date format for experience
