@@ -54,7 +54,7 @@ education:
   - area: PhD Physics
     institution: ICFO - LMU
     date_start: 2019-01-01
-    date_end: Present
+    date_end: 2024-09-15
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
