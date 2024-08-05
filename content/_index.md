@@ -70,13 +70,13 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent Talks
+      title: Talks and Activities
       filters:
         folders:
           - event
     design:
       view: article-grid
-      columns: 1
+      columns: 3
 
   - block: markdown
     id: teaching
