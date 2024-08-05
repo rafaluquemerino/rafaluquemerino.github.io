@@ -41,8 +41,6 @@ profiles:
     url: https://www.linkedin.com/in/rafael-luque-merino/
   - icon: academicons/google-scholar
     url: https://scholar.google.es/citations?user=1Eh_xOAAAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - 2D Materials
@@ -52,9 +50,9 @@ interests:
 
 education:
   - area: PhD Physics
-    institution: ICFO - LMU
+    institution: Insitut de les Ciències Fotòniques (ICFO) - Ludwig Maximilian university (LMU)
     date_start: 2019-01-01
-    date_end: 2024-09-15
+    date_end: ''
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -80,29 +78,6 @@ education:
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
