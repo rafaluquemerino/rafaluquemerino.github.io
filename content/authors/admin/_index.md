@@ -79,6 +79,9 @@ education:
       GPA: 7.21/10
       - Highest honours for Bachelor thesis
 
+
+
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:

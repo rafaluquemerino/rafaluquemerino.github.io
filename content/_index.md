@@ -20,7 +20,7 @@ sections:
         url: uploads/resume.pdf
 
   - block: experience
-    id: experience
+    
     content:
       title: Experience
       # Date format for experience
