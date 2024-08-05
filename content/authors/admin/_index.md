@@ -49,37 +49,35 @@ interests:
   - Slavok Zizek
 
 education:
-  - area: PhD Physics
+  - area: PhD in Photonics in Dr. Dmitri Efetov group
     institution: Insitut de les Ciències Fotòniques (ICFO) - Ludwig Maximilian university (LMU)
-    date_start: 2019-01-01
+    date_start: 2019-09-01
     date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _TITULO DE LA TESIS_. Supervised by Dr. Dimitri Efetov. Presented papers at X IEEE conferences with the contributions being published in XX Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Master Photonics
-    institution: Universidad de Barcelona (UB)
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+
+  - area: MSc in Photonics
+    institution: Universitat Politècnica de Catalunya, UPC
+    date_start: 2018-09-01
+    date_end: 2019-07-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 8.53/10
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  
   - area: BSc in Physics
     institution: Universidad de La Laguna (ULL)
     date_start: 2015-01-01
     date_end: 2029-12-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 7.21/10
+      - Highest honours for Bachelor thesis
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -127,6 +125,6 @@ languages:
 
 ## Biography
 
-Hi, I’m Rafa, currently PhD student in Physics from the Experimental Solid State Physics - Quantum Materials group at the [Ludwig Maximilian University of Munich (LMU)](https://www.quantummatter.physik.lmu.de/), which moved from [The Institute of Photonic Sciences (ICFO)](https://www.icfo.eu/), in Barcelona. I use innovative nano-fabrication techniques to create novel designer materials made by vertical stacking and twisting of various 2D materials. I am interested in superconductivity, 2D materials, quantum sensing, and condensed matter physics.
+Hi, I’m Rafa, currently PhD student in Physics from the Experimental Solid State Physics - Quantum Materials group at the [Ludwig Maximilian University of Munich (LMU)](https://www.quantummatter.physik.lmu.de/) and the [The Institute of Photonic Sciences (ICFO)](https://www.icfo.eu/), in Barcelona. I use innovative nano-fabrication techniques to create novel designer materials made by vertical stacking and twisting of various 2D materials. I am interested in superconductivity, 2D materials, quantum sensing, and condensed matter physics.
 
 For more details see my [publications](https://rafaluquemerino.github.io/#publications) list.
