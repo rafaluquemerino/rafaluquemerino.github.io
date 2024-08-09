@@ -2,3 +2,15 @@ html {
     scroll-behavior: smooth;
   }
 
+/* Change icon color to blue */
+/* Change the color of all icons with the network-icon class */
+.network-icon {
+  color: blue; /* For font icons */
+  fill: blue;  /* For SVG icons */
+}
+
+/* If you want to specifically target dark mode */
+.dark .network-icon {
+  color: blue;
+  fill: blue;
+}
