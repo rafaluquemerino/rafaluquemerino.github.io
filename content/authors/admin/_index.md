@@ -56,7 +56,8 @@ education:
     date_start: 2019-09-01
     date_end: 2024-09-02
     summary: |
-      Thesis on 'Optoelectronic studies of strongly correlated 2D materials'. Advisor: Prof. Dr. Dmitri K. Efetov.
+      Thesis on 'Optoelectronic studies of strongly correlated 2D materials'.
+      Advisor: Prof. Dr. Dmitri K. Efetov.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -68,10 +69,8 @@ education:
     summary: |
       GPA: 8.53/10
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Master Thesis: 'Coherent control of superconducting quantum bits'
+      - Thesis Advisor: Dr. Pol Forn Díaz
   
   - area: BSc in Physics
     institution: Universidad de La Laguna (ULL)
@@ -79,15 +78,21 @@ education:
     date_end: 2018-08-31
     summary: |
       GPA: 7.21/10
+      
+      - Bachelor Thesis project: 'Characterizing MoSi superconducting single photon detectors'
+      - Thesis Advisor: Prof. Dr. Michiel de Dood
+      - Universiteit Leiden – Leiden, The Netherlands
       - Highest honours for Bachelor thesis
+
+
   
 work:
-  - position: PhD candidate in 2D quantum materials under Dr. Dmitri Efetov
+  - position: PhD in 2D quantum materials under Dr. Dmitri Efetov
     company_name: ICFO-LMU
     company_url: ''
     company_logo: ''
     date_start: 2019-09-01
-    date_end: ''
+    date_end: 2024-09-02
 
   - position: Master Thesis on Quantum Computing under Dr. Pol Forn Díaz
     company_name: Barcelona Supercomputing Centre (BSC), Barcelona, Spain
@@ -150,6 +155,6 @@ skills:
 
 ## Biography
 
-Hi, I’m Rafa, currently PhD student in Physics from the Experimental Solid State Physics - Quantum Materials group at the [Ludwig Maximilian University of Munich (LMU)](https://www.quantummatter.physik.lmu.de/) and the [The Institute of Photonic Sciences (ICFO)](https://www.icfo.eu/), in Barcelona. I use innovative nano-fabrication techniques to create novel designer materials made by vertical stacking and twisting of various 2D materials. I am interested in superconductivity, 2D materials, quantum sensing, and condensed matter physics.
+Hi, I’m Rafa, PhD graduate in Photonics from the [The Institute of Photonic Sciences (ICFO)](https://www.icfo.eu/) in Barcelona, and I currently work as posdoctoral researcher at the Experimental Solid State Physics - Quantum Materials group at the [Ludwig Maximilian University of Munich (LMU)](https://www.quantummatter.physik.lmu.de/). I use innovative nano-fabrication techniques to create novel designer materials made by vertical stacking and twisting of various 2D materials. I am interested in superconductivity, 2D materials, quantum sensing, and condensed matter physics.
 
 For more details see my [publications](https://rafaluquemerino.github.io/#publications) list.
