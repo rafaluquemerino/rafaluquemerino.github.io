@@ -65,7 +65,7 @@ education:
   - area: M.Sc. in Photonics (M2)
     institution: Universitat Politècnica de Catalunya (UPC) - Barcelona, Spain
     date_start: 2018-09-01
-    date_end: 2019-07-31
+    date_end: 2019-07-15
     summary: |
       GPA: 8.53/10
 
@@ -75,7 +75,7 @@ education:
   - area: B.Sc. in Physics
     institution: Universidad de La Laguna (ULL) - Tenerife, Spain
     date_start: 2015-09-01
-    date_end: 2018-07-31
+    date_end: 2018-07-15
     summary: |
       GPA: 7.21/10
       
@@ -99,21 +99,21 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2019-02-01
-    date_end: 2019-08-31
+    date_end: 2019-08-15
 
   - position: Research internship on Solar Energy under Dr. Sandra Bermejo
     company_name: Universitat Politècnica de Catalunya (UPC), Barcelona, Spain
     company_url: ''
     company_logo: ''
     date_start: 2018-12-01
-    date_end: 2019-02-31
+    date_end: 2019-02-15
    
   - position: Bachelor Thesis Project in Quantum Optics under Prof. Dr. Michiel de Dood
     company_name: Universiteit Leiden – Leiden, The Netherlands
     company_url: ''
     company_logo: ''
     date_start: 2017-08-01
-    date_end: 2017-12-31
+    date_end: 2017-12-15
 
 
 
