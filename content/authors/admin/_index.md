@@ -52,7 +52,7 @@ interests:
 
 education:
   - area: PhD in Photonics in Dr. Dmitri Efetov group
-    institution: Insitut de les Ciències Fotòniques (ICFO) - Ludwig Maximilian university (LMU)
+    institution: Insitut de les Ciències Fotòniques (ICFO) - Barcelona, Spain & Ludwig Maximilians Universität (LMU) - Munich, Germany
     date_start: 2019-09-01
     date_end: 2024-09-02
     summary: |
@@ -62,8 +62,8 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
 
-  - area: MSc in Photonics
-    institution: Universitat Politècnica de Catalunya, UPC
+  - area: M.Sc. in Photonics (M2)
+    institution: Universitat Politècnica de Catalunya (UPC) - Barcelona, Spain
     date_start: 2018-09-01
     date_end: 2019-07-31
     summary: |
@@ -72,10 +72,10 @@ education:
       - Master Thesis: 'Coherent control of superconducting quantum bits'
       - Thesis Advisor: Dr. Pol Forn Díaz
   
-  - area: BSc in Physics
-    institution: Universidad de La Laguna (ULL)
-    date_start: 2014-09-01
-    date_end: 2018-08-31
+  - area: B.Sc. in Physics
+    institution: Universidad de La Laguna (ULL) - Tenerife, Spain
+    date_start: 2015-09-01
+    date_end: 2018-07-31
     summary: |
       GPA: 7.21/10
       
