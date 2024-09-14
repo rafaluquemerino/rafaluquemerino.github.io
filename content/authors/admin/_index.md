@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD student
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -54,9 +54,9 @@ education:
   - area: PhD in Photonics in Dr. Dmitri Efetov group
     institution: Insitut de les Ciències Fotòniques (ICFO) - Ludwig Maximilian university (LMU)
     date_start: 2019-09-01
-    date_end: ''
+    date_end: 2024-09-02
     summary: |
-      Thesis on _TITULO DE LA TESIS_. Supervised by Dr. Dimitri Efetov. Presented papers at X IEEE conferences with the contributions being published in XX Springer journals.
+      Thesis on 'Optoelectronic studies of strongly correlated 2D materials'. Advisor: Prof. Dr. Dmitri K. Efetov.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -75,15 +75,12 @@ education:
   
   - area: BSc in Physics
     institution: Universidad de La Laguna (ULL)
-    date_start: 2015-01-01
-    date_end: 2029-12-31
+    date_start: 2014-09-01
+    date_end: 2018-08-31
     summary: |
       GPA: 7.21/10
       - Highest honours for Bachelor thesis
-  - area: BSc in Maths and Physics (2 years)
-    institution: Universidad Complutense de Madrid
-    date_start: 2013-09-01
-    date_end: 2015-07-31
+  
 work:
   - position: PhD candidate in 2D quantum materials under Dr. Dmitri Efetov
     company_name: ICFO-LMU

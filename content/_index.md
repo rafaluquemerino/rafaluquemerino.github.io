@@ -38,7 +38,7 @@ sections:
           company_logo: org-gc
           location: Barcelona-Munich
           date_start: '2019-09-01'
-          date_end: ''
+          date_end: '2024-09-02'
           description: |2-
               * “Single photon detection based on a 2D high temperature superconductor”
               * Modelling
