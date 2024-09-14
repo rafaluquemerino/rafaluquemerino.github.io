@@ -43,10 +43,12 @@ profiles:
     url: https://scholar.google.es/citations?user=1Eh_xOAAAAAJ&hl=en
 
 interests:
-  - 2D Materials
-  - Physics
+  - Graphene
+  - Quantum Materials
+  - Optoelectronics
+  - Superconductivity
+  - Philosophy & Literature
   - Basketball
-  - Slavok Zizek
 
 education:
   - area: PhD in Photonics in Dr. Dmitri Efetov group
