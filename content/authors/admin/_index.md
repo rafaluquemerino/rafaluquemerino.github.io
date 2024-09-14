@@ -82,38 +82,38 @@ education:
       - Bachelor Thesis project: 'Characterizing MoSi superconducting single photon detectors'
       - Thesis Advisor: Prof. Dr. Michiel de Dood
       - Universiteit Leiden – Leiden, The Netherlands
-      - Highest honours for Bachelor thesis
+      
 
 
   
 work:
-  - position: PhD in 2D quantum materials under Dr. Dmitri Efetov
-    company_name: ICFO-LMU
+  - position: PhD in 2D quantum materials under Prof. Dr. Dmitri K. Efetov
+    company_name: LMU, Munich, Germany & ICFO, Barcelona, Spain
     company_url: ''
     company_logo: ''
     date_start: 2019-09-01
     date_end: 2024-09-02
 
-  - position: Master Thesis on Quantum Computing under Dr. Pol Forn Díaz
+  - position: Master Thesis Project on Quantum Computing under Dr. Pol Forn Díaz
     company_name: Barcelona Supercomputing Centre (BSC), Barcelona, Spain
     company_url: ''
     company_logo: ''
-    date_start: 2018-01-01
-    date_end: 2019-12-31
+    date_start: 2019-02-01
+    date_end: 2019-08-31
 
   - position: Research internship on Solar Energy under Dr. Sandra Bermejo
-    company_name: Universitat Politècnica de Catalunya, Barcelona, Spain
+    company_name: Universitat Politècnica de Catalunya (UPC), Barcelona, Spain
     company_url: ''
     company_logo: ''
-    date_start: 2018-01-01
-    date_end: 2019-12-31
+    date_start: 2018-12-01
+    date_end: 2019-02-31
    
-  - position: Bachelor Thesis in Quantum Optics under Dr. Michiel de Dood
-    company_name: Quantum Optics Group, Leiden University, The Netherlands
+  - position: Bachelor Thesis Project in Quantum Optics under Prof. Dr. Michiel de Dood
+    company_name: Universiteit Leiden – Leiden, The Netherlands
     company_url: ''
     company_logo: ''
-    date_start: 2017-01-01
-    date_end: 2018-12-31
+    date_start: 2017-08-01
+    date_end: 2017-12-31
 
 
 
