@@ -67,23 +67,13 @@ sections:
     design:
       view: citation
 
-  - block: collection
-    id: talks
-    content:
-      title: Talks and Activities
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 3
 
   - block: markdown
     id: teaching
     content:
       title: Teaching
       subtitle: Subtitle of teaching
-      text: 'Teachings in LMU'
+      text: 2023 Winter Semester Tutorials in Advanced Solid State Physics, 80 total students M1 level, M.Sc. in Physics, Ludwig Maximilian University (LMU) - Munich, Germany
   
   
   - block: markdown
@@ -91,7 +81,8 @@ sections:
     content:
       title: Contact
       subtitle: ''
-      text: You can reach me at 👉 rafael.luque@lmu.de
+      text: You can reach me at 
+            rafael.luque@lmu.de
 
 
   - block: cta-card
