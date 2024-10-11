@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:rluque01@ucm.es'
+    url: 'mailto:rafael.luque@lmu.de'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/RAFAELLUQUEMER1
