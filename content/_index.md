@@ -80,7 +80,7 @@ sections:
     content:
       title: Contact
       subtitle: 
-      text: You can reach me at **rafael.luque@lmu.de**
+      text: You can reach me at 'mailto:rluque01@ucm.es'
 
 
   - block: cta-card
