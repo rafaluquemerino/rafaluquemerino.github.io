@@ -80,8 +80,8 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle: ''
-      text: You can reach me at rafael.luque@lmu.de
+      subtitle: 'You can reach me at **rafael.luque@lmu.de**'
+      text: 
 
 
   - block: cta-card
