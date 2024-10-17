@@ -71,8 +71,12 @@ sections:
   - block: markdown
     id: teaching
     content:
-      title: Teaching & Talks
-      text: 2023 Winter Semester Tutorials in Advanced Solid State Physics, 80 total students M1 level, M.Sc. in Physics, Ludwig Maximilian University (LMU) - Munich, Germany
+      title: Scientific talks
+      text: 
+      - Swabian Summer School – Stuttgart, Germany. “Harnessing 2D superconductivity for quantum sensing” (September 2024)
+
+      - Blas Cabrera Seminar – ULL, Tenerife, Spain. “Estudios optoelectrónicos de materiales 2D fuertemente correlacionados” (September 2024)
+
   
   
   - block: markdown
