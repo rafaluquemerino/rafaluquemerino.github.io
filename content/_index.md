@@ -73,11 +73,46 @@ sections:
     content:
       title: Scientific talks
       text: |
-        - **Swabian Summer School** – Stuttgart, Germany.  
-          “Harnessing 2D superconductivity for quantum sensing” (September 2024).
+        **INVITED**
+        - **Swabian Summer School** – Stuttgart, Germany (September 2024)  
+          “Harnessing 2D superconductivity for quantum sensing”
         
-        - **Blas Cabrera Seminar** – ULL, Tenerife, Spain.  
-          “Estudios optoelectrónicos de materiales 2D fuertemente correlacionados” (September 2024).
+        - **Blas Cabrera Seminar** – ULL, Tenerife, Spain (September 2024)
+          “Estudios optoelectrónicos de materiales 2D fuertemente correlacionados” 
+
+        - **Superconducting Quantum Devices** – ARC, Glasgow, UK (July 2023)
+          “Detecting telecom photons using a 2D high-TC superconductor” 
+
+        **CONTRIBUTED**
+        - **APS March Meeting** – Minneapolis, USA (March 2024)
+          “Signatures of heavy electron bands in the thermoelectric response of MATBG pn-junctions”
+
+        - **CLEO Europe** – Munich, Germany (June 2023)
+          “2D high-temperature superconducting nanodetectors”
+        
+        - **Internal Seminar CeNS**– Munich, Germany (June 2023)
+          “Intrinsic and synthetic correlated electrons in 2D materials and how to use them”
+
+        - **ICFO – IMPRS Workshop** – Barcelona, Spain (April 2023)
+          “Twist angle control of hot carrier relaxation in magic angle twisted bilayer graphene”
+
+        - **APS March Meeting** – Chicago, USA (March 2022)
+          “Single-photon detection at T = 20 K in an exfoliated 2D cuprate superconductor”
+
+        - **Quantum201** – Bilbao, Spain (November 2021)
+          “Photodetection on an exfoliated two-dimensional cuprate superconductor”
+
+        - **COEFIS XII** – Tenerife, Spain (March 2019)
+          “Quantum computing: Exploiting quantum properties to solve hard problem”
+
+        **PRIZES**
+        - Best Poster prize at **Graphene2024**, Madrid, Spain (June 2024)
+
+        **TEACHING EXPERIENCE**
+        - 2023 Winter Semester Tutorials in Advanced Solid State Physics, 80 total students
+          M1 level, M.Sc. in Physics, Ludwig Maximilian University (LMU), Munich, Germany
+
+
 
   
   
