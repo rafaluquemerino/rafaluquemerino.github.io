@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* 2D Materials*"
+publication: "*2D Materials*"
 publication_short: ""
 
 
