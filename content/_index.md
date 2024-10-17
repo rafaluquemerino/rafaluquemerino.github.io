@@ -72,7 +72,12 @@ sections:
     id: teaching
     content:
       title: Scientific talks
-      text: Swabian Summer School – Stuttgart, Germany. “Harnessing 2D superconductivity for quantum sensing” (September 2024). Blas Cabrera Seminar – ULL, Tenerife, Spain. “Estudios optoelectrónicos de materiales 2D fuertemente correlacionados” (September 2024)
+      text: |
+        - **Swabian Summer School** – Stuttgart, Germany.  
+          “Harnessing 2D superconductivity for quantum sensing” (September 2024).
+        
+        - **Blas Cabrera Seminar** – ULL, Tenerife, Spain.  
+          “Estudios optoelectrónicos de materiales 2D fuertemente correlacionados” (September 2024).
 
   
   
