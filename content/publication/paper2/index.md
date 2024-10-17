@@ -26,7 +26,7 @@ publication_short: ""
 
 
 
-abstract: We study the interacting transport properties of twisted bilayer graphene (TBG) using the topological heavy-fermion (THF) model. In the THF model, TBG comprises localized, correlated f-electrons and itinerant, dispersive c-electrons. We focus on the Seebeck coefficient, which quantifies the voltage difference arising from a temperature gradient. We find that the TBG's Seebeck coefficient shows unconventional (strongly-interacting) traits: negative values with sawtooth oscillations at positive fillings, contrasting typical band-theory expectations. This behavior is naturally attributed to the presence of heavy (correlated, short-lived f-electrons) and light (dispersive, long-lived c-electrons) electronic bands. Their longer lifetime and stronger dispersion lead to a dominant transport contribution from the c-electrons. At positive integer fillings, the correlated TBG insulators feature c- (f-)electron bands on the electron (hole) doping side, leading to an overall negative Seebeck coefficient. Additionally, sawtooth oscillations occur around each integer filling due to gap openings. Our results highlight the essential importance of electron correlations in understanding the transport properties of TBG and, in particular, of the lifetime asymmetry between the two fermionic species (naturally captured by the THF model). Our findings are corroborated by new experiments in both twisted bilayer and trilayer graphene, and show the natural presence of strongly-correlated heavy and light carriers in the system.
+abstract: We study the interacting transport properties of twisted bilayer graphene (TBG) using the topological heavy-fermion (THF) model.
 
 
 # Summary. An optional shortened abstract.
