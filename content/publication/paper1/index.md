@@ -1,13 +1,19 @@
 ---
-title: "Paper 1"
+title: "Interplay of light and heavy electron bamds in the thermoelectric transport of magic-angle twisted bilayer graphene"
 authors:
 - admin
-- Robert Ford
-- Dimitri Efetov
+- D. Câlugâru
+- H. Hu
+- J. Díez-Mérida
+- A. Díez-Carlón
+- T. Taniguchi
+- K. Watanabe
+- P.Seifert
+- B. A. Bernevig and D. K. Efetov
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +25,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Science*"
+publication: "*under review Nature Physics*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: It has been recently postulated, that the strongly correlated flat bands of magicangle twisted bilayer graphene (MATBG) can host coexisting heavy and light carriers. While transport and spectroscopic measurements have shown hints of this behavior, a more direct experimental proof is still lacking. Here, we explore the thermoelectric response of MATBG through the photo-thermoelectric (PTE) effect in gate-defined MATBG pn-junctions. At low temperatures, we observe sign-preserving, fillingdependent oscillations of the Seebeck coefficient at non-zero integer fillings of the moiré lattice, which suggest the preponderance of one carrier type despite tuning the Fermi level from hole to electron doping of the correlated insulator. Furthermore, at higher temperatures, the thermoelectric response provides distinct evidence of the strong electron correlations in the unordered, normal state. We show that our observations are naturally accounted for by the interplay of light and long-lived and heavy and short-lived electron bands near the Fermi level at non-zero integer fillings. Our observations firmly establish the electron and hole asymmetry of the correlated gaps in MATBG, and shows excellent qualitative agreement with the recently developed topological heavy fermion model (THF). 
+
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,8 +41,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://arxiv.org/pdf/2402.11749
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -65,12 +72,7 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+- **Key observations**: First demonstration of heavy-fermion physics in the Seebeck coefficient of
+MATBG, demonstration of the photo-thermoelectric effect in MATBG
+- **Acquired skills**: Thermoelectric transport, optoelectronics and transport characterization in
+graphene p-n junctions, Seebeck coefficient in moiré graphene.
