@@ -112,9 +112,6 @@ sections:
         - 2023 Winter Semester Tutorials in Advanced Solid State Physics, 80 total students
           M1 level, M.Sc. in Physics, Ludwig Maximilian University (LMU), Munich, Germany
 
-
-
-  
   
   - block: markdown
     id: contact
